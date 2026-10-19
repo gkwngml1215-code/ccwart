@@ -61,11 +61,12 @@ hoo-chuncheon-landing/
 
 ---
 
-## 4. 배포 (제주점과 동일)
+## 4. 배포 (완료 — 2026-10-19)
 
-1. GitHub 에 새 저장소 생성 (예: `ccwart`) → 이 폴더를 `main` 브랜치로 push
-2. Cloudflare Pages 에서 Git 연결로 배포, 커스텀 도메인 연결
+1. GitHub `gkwngml1215-code/ccwart` main 브랜치 ← 이 폴더 (완료)
+2. Cloudflare Pages `ccwart` + 도메인 ccwart.co.kr·www (완료)
 3. 이후 수정은 `사이트에-올리기.bat` 더블클릭
+4. 컬럼 5편 발행됨 (2026-10-19). 이후 컬럼은 어드민(ccwart-admin.pages.dev)에서 발행
 
-어드민(컬럼 발행 도구)은 `hoo-jeju-admin` 을 복제해 `site-config.js` 의 저장소/도메인/지점명/원장/진료시간을 춘천점으로 바꿔 쓰면 됩니다.
+어드민(컬럼 발행 도구)은 `../hoo-chuncheon-admin` (ccwart 저장소 admin 브랜치). 설치 절차는 그 폴더의 `어드민-설치-순서.md`.
 (전주·강남 어드민 폴더는 건드리지 않습니다.)
