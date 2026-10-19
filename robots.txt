@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cchoowart.co.kr/sitemap.xml
+Sitemap: https://ccwart.co.kr/sitemap.xml
 
 User-agent: GPTBot
 Allow: /

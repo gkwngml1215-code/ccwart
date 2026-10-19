@@ -52,7 +52,7 @@ if errorlevel 1 (
 echo.
 echo ==========================================
 echo    완료!
-echo    1~2분 뒤 https://cchoowart.co.kr 에 반영됩니다.
+echo    1~2분 뒤 https://ccwart.co.kr 에 반영됩니다.
 echo ==========================================
 echo.
 pause

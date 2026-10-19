@@ -39,7 +39,7 @@ hoo-chuncheon-landing/
 │  ├─ skintag1-before/after.jpg    # 쥐젖 전후 (전후사진/쥐젖/10)
 │  ├─ sk1~3-before/after.jpg       # 지루각화증(검버섯) 전후 (전후사진/지루각화증 검버섯 1~3)
 │  └─ milium1·2-before/after.jpg   # 비립종 전후 (제주점과 동일)
-├─ CNAME                   # cchoowart.co.kr (★ 실제 도메인 확정 후 수정)
+├─ CNAME                   # ccwart.co.kr (★ 실제 도메인 확정 후 수정)
 ├─ robots.txt / sitemap.xml / llms.txt
 ├─ .github/                # 컬럼 목록 자동 점검 (전주·제주점과 동일)
 └─ 사이트에-올리기.bat      # git add/commit/push 한 번에
@@ -49,9 +49,9 @@ hoo-chuncheon-landing/
 
 ## 3. 게시 전 반드시 확인·교체할 것
 
-- [ ] **도메인** — `cchoowart.co.kr` 은 임시입니다. 실제 도메인이 정해지면
+- [ ] **도메인** — `ccwart.co.kr` 은 임시입니다. 실제 도메인이 정해지면
       `CNAME`, `index.html`, `columns.html`, `robots.txt`, `sitemap.xml`, `llms.txt`, `사이트에-올리기.bat` 에서 일괄 치환하세요.
-      (VS Code `Ctrl+Shift+H` → `cchoowart.co.kr` → 새 도메인)
+      (VS Code `Ctrl+Shift+H` → `ccwart.co.kr` → 새 도메인)
 - [x] **비용(`#cost`)** — `후한의원 춘천점 수가.png`(10월 잡티제거 EVENT) 기준으로 반영 완료. 2mm 이하 1부위 기준, VAT 별도.
 - [x] **원장 사진·약력(`#doctor`)** — 김지유 대표원장 사진·경력·학력·학회·논문 반영 완료 (2026-10-16).
 - [x] **진료시간** — 공식 사이트(cc.hooclinic.co.kr) 기준: 월·화·목·금 10:00–20:30 (점심 12:30–14:00), 토 09:00–15:00 점심 없음, 수·일 휴진.
