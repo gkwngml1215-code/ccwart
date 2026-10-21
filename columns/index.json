@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "milia-eye-cause-extraction",
+      "title": "춘천 눈가 비립종, 왜 생기고 어떻게 제거하나요?",
+      "category": "비립종",
+      "cardSummary": "눈가에 박힌 하얀 좁쌀, 비립종이 생기는 이유와 미세 절개 압출 제거 과정, 제거 후 관리와 예방 습관을 정리했습니다.",
+      "image": "assets/images/milium1-before.jpg",
+      "datePublished": "2026-10-22",
+      "dateModified": "2026-10-22"
+    },
+    {
       "slug": "column-01",
       "title": "편평사마귀, 왜 자꾸 번질까요? [후한의원 춘천점 칼럼]",
       "category": "편평사마귀",
