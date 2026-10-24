@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "flat-wart-hands-fingers",
+      "title": "춘천 손등·손가락 편평사마귀, 왜 손에 생기고 어떻게 관리하나요?",
+      "category": "편평사마귀",
+      "cardSummary": "손등과 손가락에 납작한 돌기가 늘어난다면? 손에 편평사마귀가 잘 생기는 이유와 손 씻기·건조·거스러미 습관의 영향, 보통사마귀·검버섯과의 구분, 시술 후 손 관리를 정리했습니다.",
+      "image": "assets/images/treatment-scene.jpg",
+      "datePublished": "2026-10-25",
+      "dateModified": "2026-10-25"
+    },
+    {
       "slug": "syringoma-under-eye-differentiation",
       "title": "춘천 눈 밑 한관종, 편평사마귀·비립종과 어떻게 구분하나요?",
       "category": "한관종",
