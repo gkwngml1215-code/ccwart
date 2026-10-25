@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "sebaceous-hyperplasia-flat-wart-differentiation",
+      "title": "춘천 이마·코 주변 노란 돌기, 피지선증식증과 편평사마귀는 어떻게 구분하나요?",
+      "category": "피지선증식증",
+      "cardSummary": "이마·코·볼에 생기는 노르스름한 돌기, 피지선증식증이 편평사마귀와 어떻게 다른지, 짜내면 안 되는 이유와 진료실에서의 감별·시술·관리를 정리했습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26"
+    },
+    {
       "slug": "flat-wart-hands-fingers",
       "title": "춘천 손등·손가락 편평사마귀, 왜 손에 생기고 어떻게 관리하나요?",
       "category": "편평사마귀",
