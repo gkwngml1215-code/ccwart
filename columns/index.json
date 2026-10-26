@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "flat-wart-contagion-family",
+      "title": "춘천 편평사마귀, 가족끼리 수건·면도기로 옮을 수 있나요?",
+      "category": "편평사마귀",
+      "cardSummary": "가족이 쓰는 수건이나 면도기로 편평사마귀가 옮을 수 있을까요? 다른 사람에게 옮는 경로와 내 몸 안에서 번지는 자가접종의 차이, 집에서 바로 바꿀 수 있는 전파 예방 습관을 정리했습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27"
+    },
+    {
       "slug": "sebaceous-hyperplasia-flat-wart-differentiation",
       "title": "춘천 이마·코 주변 노란 돌기, 피지선증식증과 편평사마귀는 어떻게 구분하나요?",
       "category": "피지선증식증",
