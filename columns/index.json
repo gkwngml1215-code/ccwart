@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "closed-comedone-flat-wart-differentiation",
+      "title": "춘천 이마·턱선의 작은 돌기, 좁쌀여드름과 편평사마귀는 어떻게 구분하나요?",
+      "category": "편평사마귀",
+      "cardSummary": "이마와 턱선에 오돌토돌 올라온 작은 돌기, 좁쌀여드름일까요 편평사마귀일까요? 원인·겉모습·경과의 차이와 짜면 안 되는 이유, 진료가 필요한 때를 정리했습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-10-28",
+      "dateModified": "2026-10-28"
+    },
+    {
       "slug": "flat-wart-contagion-family",
       "title": "춘천 편평사마귀, 가족끼리 수건·면도기로 옮을 수 있나요?",
       "category": "편평사마귀",
