@@ -2,6 +2,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://ccwart.co.kr/sitemap.xml
+Sitemap: https://ccwart.co.kr/sitemap-images.xml
 
 User-agent: GPTBot
 Allow: /
