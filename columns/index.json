@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "flat-wart-chin-beard-shaving-makeup",
+      "title": "춘천 턱·입가 편평사마귀, 면도와 화장 습관 때문에 번질 수 있나요?",
+      "category": "편평사마귀",
+      "cardSummary": "턱선과 수염 자리, 입가에 납작한 돌기가 늘어난다면? 면도·화장 도구·스크럽·입술 핥기 습관이 편평사마귀를 번지게 하는 과정과 일상에서 바꿔 볼 관리법, 진료실에서의 정리 방법을 담았습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-10-30",
+      "dateModified": "2026-10-30"
+    },
+    {
       "slug": "closed-comedone-flat-wart-differentiation",
       "title": "춘천 이마·턱선의 작은 돌기, 좁쌀여드름과 편평사마귀는 어떻게 구분하나요?",
       "category": "편평사마귀",
