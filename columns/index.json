@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "flat-wart-neck-collar-necklace-scarf-friction",
+      "title": "춘천 목 편평사마귀, 옷깃·목걸이·머플러 마찰로 번질 수 있나요?",
+      "category": "편평사마귀",
+      "cardSummary": "날이 쌀쌀해져 머플러와 터틀넥을 꺼내면서 목의 납작한 돌기가 늘어난 것 같다면? 옷깃·목걸이·머플러 마찰이 편평사마귀를 넓히는 과정과 가을·겨울 목 관리법, 진료실에서의 정리 방법을 담았습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-11-02",
+      "dateModified": "2026-11-02"
+    },
+    {
       "slug": "flat-wart-chin-beard-shaving-makeup",
       "title": "춘천 턱·입가 편평사마귀, 면도와 화장 습관 때문에 번질 수 있나요?",
       "category": "편평사마귀",
