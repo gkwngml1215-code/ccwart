@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "flat-wart-kids-teens-face-school-care",
+      "title": "춘천 아이·청소년 얼굴 편평사마귀, 학교와 학원에서 지내며 어떻게 관리하나요?",
+      "category": "편평사마귀",
+      "cardSummary": "아이 이마와 볼에 납작한 돌기가 늘어난다면? 아이·청소년에게 편평사마귀가 잘 생기는 이유, 여드름과의 구분, 교실·학원·체육 시간에 챙길 생활 관리와 진료 방법을 정리했습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-11-04",
+      "dateModified": "2026-11-04"
+    },
+    {
       "slug": "flat-wart-neck-collar-necklace-scarf-friction",
       "title": "춘천 목 편평사마귀, 옷깃·목걸이·머플러 마찰로 번질 수 있나요?",
       "category": "편평사마귀",
