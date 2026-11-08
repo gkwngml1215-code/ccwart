@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "flat-wart-fatigue-sleep-stress-immunity",
+      "title": "춘천 편평사마귀, 피곤하고 잠이 부족할 때 더 늘어나는 것처럼 느껴지는 이유는?",
+      "category": "편평사마귀",
+      "cardSummary": "야근과 시험, 육아로 잠이 부족했던 몇 주 뒤 얼굴의 납작한 돌기가 늘어난 것 같다면? 피로·수면 부족·스트레스와 면역, HPV의 관계, 긁고 만지는 습관, 진료를 받을 시점과 침·레이저 병행이 쓰이는 경우를 정리했습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-11-09",
+      "dateModified": "2026-11-09"
+    },
+    {
       "slug": "flat-wart-forehead-hairline-bangs-hat-hair-products",
       "title": "춘천 이마·헤어라인 편평사마귀, 앞머리·모자·헤어 제품이 번짐에 영향을 주나요?",
       "category": "편평사마귀",
