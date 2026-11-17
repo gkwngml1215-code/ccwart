@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "flat-wart-itching-scratching-linear-spread",
+      "title": "춘천 편평사마귀, 가려워서 긁으면 왜 긁은 선을 따라 줄지어 번질까요?",
+      "category": "편평사마귀",
+      "cardSummary": "가려워서 긁은 자리를 따라 납작한 돌기가 한 줄로 늘어섰다면? 자가접종과 선상 배열이 생기는 원리, 긁지 않고 가려움을 가라앉히는 방법, 진료를 받아 보면 좋은 경우를 정리했습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-11-18",
+      "dateModified": "2026-11-18"
+    },
+    {
       "slug": "flat-wart-exercise-sweat-gym-towel-sportswear-friction",
       "title": "춘천 편평사마귀, 운동 후 땀과 헬스장 수건·운동복 마찰이 번짐에 영향을 줄까요?",
       "category": "편평사마귀",
