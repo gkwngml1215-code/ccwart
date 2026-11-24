@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "flat-wart-arms-legs-shaving-waxing-hair-removal",
+      "title": "춘천 팔·다리 편평사마귀, 면도기·제모기·왁싱 뒤 털 자리를 따라 늘어나는 것 같은 이유는?",
+      "category": "편평사마귀",
+      "cardSummary": "면도기·제모기·왁싱으로 팔과 다리 털을 정리한 뒤 편평사마귀가 털 자리와 면도 방향을 따라 늘어나 보이는 원리, 도구별 자극 차이, 모낭염과의 구분, 집에서 바꿔 볼 털 정리 습관을 정리했습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-11-25",
+      "dateModified": "2026-11-25"
+    },
+    {
       "slug": "flat-wart-swimming-pool-bathhouse-sauna-wet-skin",
       "title": "춘천 편평사마귀, 수영장·목욕탕·사우나에 다녀오면 더 번질 수 있나요?",
       "category": "편평사마귀",
