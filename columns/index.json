@@ -3,6 +3,15 @@
   "about": "원장 컬럼 목록의 원본입니다. 관리 도구가 발행할 때 이 파일을 먼저 읽고 파일명(slug) 기준으로 병합합니다. 직접 고칠 때는 다른 글이 빠지지 않게 주의하세요.",
   "columns": [
     {
+      "slug": "flat-wart-nose-glasses-nose-blowing-blackhead",
+      "title": "춘천 코·콧볼 편평사마귀, 안경 코받침과 코 풀기 습관 때문에 생길 수 있나요?",
+      "category": "편평사마귀",
+      "cardSummary": "콧볼·코 옆·안경 코받침 자리에 생기는 납작한 돌기가 편평사마귀일 수 있는 이유, 비염으로 코를 자주 풀거나 블랙헤드를 짤 때 번질 수 있는 원리, 피지선증식증·블랙헤드·모공과의 차이를 정리했습니다.",
+      "image": "assets/images/doctor-kim.jpg",
+      "datePublished": "2026-11-27",
+      "dateModified": "2026-11-27"
+    },
+    {
       "slug": "flat-wart-arms-legs-shaving-waxing-hair-removal",
       "title": "춘천 팔·다리 편평사마귀, 면도기·제모기·왁싱 뒤 털 자리를 따라 늘어나는 것 같은 이유는?",
       "category": "편평사마귀",
